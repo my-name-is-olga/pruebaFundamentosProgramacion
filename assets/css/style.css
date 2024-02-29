@@ -1,0 +1,17 @@
+* {
+  padding: 0;
+  margin: 0;
+  border: 0;
+}
+
+#logo{
+   margin:2rem;
+ }
+
+#logo img{
+  height: 20rem;
+}
+
+h1{
+  margin:2rem;
+}
